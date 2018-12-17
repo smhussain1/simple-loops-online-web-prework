@@ -3,7 +3,7 @@
 def loop_iterator(number_of_times)
   # Code your solution here using the "loop" keyword to puts out the below phrase
     loop do
-      
+      phrase = "Welcome to Flatiron School's Web Development Course!"
       counter = counter+1 
       puts "#{phrase}"
       if counter >= 7
