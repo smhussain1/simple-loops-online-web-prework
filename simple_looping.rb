@@ -29,7 +29,8 @@ def times_iterator(number_of_times)
 end
 
 def while_iterator(number_of_times)
-  while 
+  while number_of_times < 7
+  puts 
   
   
   
